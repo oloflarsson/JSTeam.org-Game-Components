@@ -1,4 +1,4 @@
-/*
+/* 
 By:      Olof Larsson http://oloflarsson.se
 For:     JSTeam.org
 Article: http://jsteam.org/timeloop-js-running-a-function-repeatedly-the-gameloop/
