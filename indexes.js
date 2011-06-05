@@ -1,3 +1,9 @@
+/*
+By:      Olof Larsson http://oloflarsson.se
+For:     JSTeam.org
+Article: http://jsteam.org/indexes-js-when-you-need-to-find-certain-object-properties-fast/
+License: MIT
+*/
 (function($){
 	
 /*
